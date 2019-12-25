@@ -2,7 +2,7 @@ package org.inceptez.spark.core
 
 import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
-
+#read lines
 object corefunctions1 {
   
   def main(args:Array[String])
